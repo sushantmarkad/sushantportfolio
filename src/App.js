@@ -76,7 +76,7 @@ const Portfolio = () => {
       "I am a second-year Information Technology engineering student and Smart India Hackathon 2025 1st Runner-up. I specialize in building scalable full-stack applications using React.js, Node.js, and Generative AI technologies to solve complex, real-world challenges across various domains.",
     shortBio: "SIH 2025 1st Runner-up & Tech Enthusiast",
     email: "sushantmarkad1@gmail.com",
-    linkedin: "clea",
+    linkedin: "https://www.linkedin.com/in/sushant-markad/",
     github: "https://github.com/sushantmarkad",
     profilePhoto: "/profile.jpg"
   };
