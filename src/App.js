@@ -154,10 +154,7 @@ const Portfolio = () => {
         "/project-images/acadex5.png",
         "/project-images/acadex6.png",
         "/project-images/acadex7.png",
-        "/project-images/acadex8.png",
-        "/project-images/acadex9.png",
-        "/project-images/acadex10.png",
-        "/project-images/acadex11.png",
+        "/project-images/acadex8.png"
 
       ]
     },
