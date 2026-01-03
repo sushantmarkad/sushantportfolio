@@ -245,7 +245,7 @@ const Portfolio = () => {
               </button>
 
               <a
-                href="/resume.pdf"
+                href="/Sushant_Resume.pdf"
                 download="Sushant_Markad_CV.pdf"
                 className="group px-8 py-4 bg-slate-800 border border-slate-700 rounded-lg hover:bg-slate-700 hover:border-cyan-500/50 hover:text-cyan-400 transition-all flex items-center gap-2"
               >
